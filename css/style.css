@@ -27,3 +27,6 @@ body {
   border-bottom-color: black;
   background-color: lightyellow;
 }
+#profile {
+  border-bottom-style: solid;
+}
