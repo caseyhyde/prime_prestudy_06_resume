@@ -8,11 +8,16 @@ body {
 }
 
 #contact h1{
-    font-size: 100px;
-    margin: 1px;
+  font-size: 100px;
+  margin: 1px;
 }
 
 #contact h2{
-    font-size: 40px;
-    margin: 1px;
+  font-size: 15px;
+  margin: 1px;
+}
+
+#contact a{
+  font-size: 15px;
+  text-decoration: none;
 }
