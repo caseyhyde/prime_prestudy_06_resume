@@ -1,11 +1,14 @@
 body {
   margin: 100px;
-  text-align: center;
-  background-color: green;
 }
 
 
 
 #contact h1{
     font-size: 100px;
+    text-align: center;
+}
+
+#contact h2{
+  
 }
