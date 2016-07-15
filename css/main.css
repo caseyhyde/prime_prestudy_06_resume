@@ -1,0 +1,149 @@
+/****************************************
+                 GENERAL
+*****************************************/
+
+body {
+  background-color: rgb(230, 230, 230);
+  font-family: 'Pontano Sans', cursive;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+a:visited {
+  color: black;
+}
+
+
+
+
+/****************************************
+                  HEADER
+*****************************************/
+
+header {
+  width: 100%;
+  text-align: center;
+  font-size: 3vw;
+  background-color: black;
+  color: white;
+  border-top: 3px solid rgb(26, 160, 149);
+  border-bottom: 3px solid rgb(26, 160, 149);
+}
+
+header h1 {
+  margin-top: 0;
+  margin-bottom: 3px;
+  color: rgb(26, 160, 149);
+}
+
+header img {
+  width: 20%;
+  height: 20%;
+  max-width: 150px;
+  max-height: 150px;
+  border-radius: 100%;
+  border: 1.5px solid white;
+}
+
+
+
+/****************************************
+                 SECTION
+*****************************************/
+
+section {
+  margin-left: 5%;
+  margin-right: 5%;
+  text-align: center;
+}
+
+.button {
+  border-radius: 20px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 40%;
+  margin-right: 40%;
+  background-color: rgb(26, 160, 149);
+  font-size: 20px;
+}
+
+.button-selected {
+  border-radius: 20px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 40%;
+  margin-right: 40%;
+  background-color: rgb(26, 160, 149);
+  font-size: 20px;
+  color: white;
+}
+
+
+/****************************************
+                 ABOUT
+*****************************************/
+
+#aboutme {
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+/****************************************
+                 RESUME
+*****************************************/
+
+#myresume h3 {
+  text-align: left;
+  margin-bottom: 2px;
+  border-bottom: 1px solid black;
+}
+
+#myresume h4 {
+  text-align: left;
+  margin-top: 10px;
+  margin-bottom: 5px;
+}
+
+#myresume h5 {
+  text-align: left;
+  margin-top: 5px;
+}
+
+#myresume ul {
+  text-align: left;
+  font-style: italic;
+  font-size: 14px;
+}
+
+
+
+/****************************************
+                 CONTACT
+*****************************************/
+
+#contactbox {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+#contactbox p {
+  margin-top: 3px;
+  margin-bottom: 3px;
+}
+
+#contactbox a {
+  color:  rgb(26, 160, 149);
+}
+
+
+
+/****************************************
+                 FOOTER
+*****************************************/
+
+footer {
+  text-align: center;
+}
