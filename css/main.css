@@ -76,6 +76,7 @@ section {
   margin-top: 10px;
   margin-bottom: 10px;
   min-width: 87px;
+  max-width: 346px;
   margin-left: 35%;
   margin-right: 35%;
   background-color: rgb(26, 160, 149);
@@ -86,6 +87,8 @@ section {
   border-radius: 20px;
   margin-top: 10px;
   margin-bottom: 10px;
+  min-width: 87px;
+  max-width: 346px;
   margin-left: 35%;
   margin-right: 35%;
   background-color: rgb(26, 160, 149);
