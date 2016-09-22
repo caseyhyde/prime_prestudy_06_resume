@@ -97,6 +97,7 @@ section {
   background-color: rgb(26, 160, 149);
   font-size: 18px;
   color: white;
+  box-shadow: 2px 2px 10px 0px rgba(0,0,0,0.75);
 }
 
 .button:hover {
