@@ -68,11 +68,12 @@ header img {
                  SECTION
 *****************************************/
 
-section {
+section, nav {
   margin-left: 5%;
   margin-right: 5%;
   text-align: center;
 }
+
 
 .button {
   border-radius: 20px;
