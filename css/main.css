@@ -68,7 +68,7 @@ header img {
                  SECTION
 *****************************************/
 
-section, nav {
+section {
   margin-left: 5%;
   margin-right: 5%;
   text-align: center;
@@ -131,24 +131,24 @@ nav {
                  RESUME
 *****************************************/
 
-#myresume h3 {
+article h3 {
   text-align: left;
   margin-bottom: 2px;
   border-bottom: 1px solid black;
 }
 
-#myresume h4 {
+article h4 {
   text-align: left;
   margin-top: 10px;
   margin-bottom: 5px;
 }
 
-#myresume h5 {
+article h5 {
   text-align: left;
   margin-top: 5px;
 }
 
-#myresume ul {
+article ul {
   text-align: left;
   font-style: italic;
   font-size: 16px;
