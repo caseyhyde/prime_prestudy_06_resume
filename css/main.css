@@ -1,6 +1,12 @@
 /****************************************
                  GENERAL
 *****************************************/
+button {
+  margin: 20% 50%;
+  background-color: rgb(26, 160, 149);
+  border-radius: 15px;
+  border: solid 5px black;
+}
 
 body {
   margin: 0px;
@@ -21,7 +27,9 @@ a:hover {
   color: white;
 }
 
-
+#magiclink:hover {
+  color: black;
+}
 
 
 
